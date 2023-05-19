@@ -13,3 +13,5 @@
 
 # Binary output folder
 bin/
+debug/
+compile/
